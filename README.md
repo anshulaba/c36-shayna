@@ -1,1 +1,2 @@
-# c36-shayna
+# synchronousBallMovement
+Ball moving synchronously
